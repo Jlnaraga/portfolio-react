@@ -1,5 +1,12 @@
-import logo from './logo.svg';
+import Contact from './components/Contact';
+import About from './components/About';
+import Home from './components/Home';
+import Portfolio from './components/Portfolio';
+import Resume from './components/Resume';
 import './App.css';
+import React from "react"
+import { Routes, Route, Link } from "react-router-dom"
+
 
 function App() {
   return (
@@ -35,16 +42,6 @@ function App() {
       </div>
     </div>
   )
-}
-
-export const Home = () => {
-  return <div>You are in Home page</div>
-}
-export const About = () => {
-  return <div>This is the page where you put details about yourself</div>
-}
-export const NotFound = () => {
-  return <div>This is a 404 page</div>
 }
     
 export default App;

@@ -1,8 +1,8 @@
-import Contact from './components/Contact';
-import About from './components/About';
-import Home from './components/Home';
-import Portfolio from './components/Portfolio';
-import Resume from './components/Resume';
+import Contact from './components/Contact/Contact';
+import About from './components/About/About';
+import Home from './components/Home/Home';
+import Portfolio from './components/Portfolio/Portfolio';
+import Resume from './components/Resume/Resume';
 import './App.css';
 import React from "react"
 import { Routes, Route, NavLink as Link } from "react-router-dom"

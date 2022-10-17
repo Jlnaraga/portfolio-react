@@ -1,0 +1,38 @@
+
+    /* About */
+    #pic img{
+        width: 50%;
+        height: auto;
+    }
+    #intro h2{
+        font-size: 1.5rem;
+    }
+
+    /* About Section */
+#about{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+#pic{
+    display: flex; 
+}
+#pic img{
+    width: 600px;
+    height: 700px;
+
+}
+#intro {
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    padding: 10px;
+    font-size: x-large;
+}
+
+#intro h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}

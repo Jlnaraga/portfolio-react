@@ -7,8 +7,8 @@ const Home = () => {
         
         <section id="home">
             <div class="main">
-                <h1 class="headings">I AM <br /> JOVY IRA NARAGA</h1>
-                <button class="btn">
+                <h1 className="headings">I AM <br /> JOVY IRA NARAGA</h1>
+                <button className="btn">
                     Hire me
                 </button>
             </div>

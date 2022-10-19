@@ -5,9 +5,9 @@ const Contact = () => {
   return (
     <section id="contact">
         
-        <h1 class="headings">CONTACT ME</h1>
+        <h1 className="headings">CONTACT ME</h1>
         
-        <div class="container">
+        <div className="container">
         
             <form>
 
@@ -20,7 +20,7 @@ const Contact = () => {
                 <label for="message">Message</label>
                 <textarea id="message" name="message" placeholder="Write something.." rows="10"></textarea>
             
-                <input type="submit" value="Submit" />
+                <input className="submit" type="submit" value="Submit" />
 
             </form>
         

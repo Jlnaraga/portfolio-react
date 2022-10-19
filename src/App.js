@@ -17,7 +17,7 @@ function App() {
             <Link to="/" className={({ isActive }) => isActive? "active": ''} end>Home</Link>
           </li>
           <li>
-            <Link to="about" className={({ isActive }) => isActive? "active": ''}>About me</Link>
+            <Link to="about" className={({ isActive }) => isActive? "active": ''}>About</Link>
           </li>
           <li>
             <Link to="portfolio" className={({ isActive }) => isActive? "active": ''}>Portfolio</Link>

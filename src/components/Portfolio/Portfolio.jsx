@@ -7,8 +7,8 @@ import findAFriend from '../../assets/screenshots/find_a_friend.png'
 const Portfolio = () => {
   return (
     <section id="portfolio">
-            <h1 class="headings">PORTFOLIO</h1>
-            <div class="gallery">
+            <h1 className="headings">PORTFOLIO</h1>
+            <div className="gallery">
                 <a href="https://kayhancock.github.io/Wanderlist/">
                   <img src={wanderlist} alt="" />
                 </a>

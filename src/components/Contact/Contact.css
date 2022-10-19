@@ -1,6 +1,30 @@
 #contact{
     display: flex;
     flex-direction: column;
-    background-color: rgba(0, 0, 0, 0.9);
+    justify-content: center;
+    background-color: #101820FF;
     color: white;
 }
+
+form {
+    display:block;
+    margin-top: 0em;
+    display: flex;
+    flex-direction:column-reverse;
+}
+
+submit {
+    position: absolute;
+}
+
+/* input{
+    font-style: normal;
+    text-align: center;
+    cursor: default;
+    box-sizing: border-box;
+    background-color: buttonface;
+    color: buttontext;
+    display: flex;
+    flex-direction:inherit;
+    justify-content: end;
+} */

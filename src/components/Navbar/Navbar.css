@@ -1,0 +1,35 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+nav a.active {
+    background-color: rgb(121, 116, 116);
+    color: white
+}   
+
+nav .navbar_logo a.active {
+    background-color: transparent;
+    color: black;
+}
+
+nav a {
+    color: black;
+    font-size: larger;
+    text-decoration: none;
+    display: inline-block;
+    padding: 1rem;
+}
+
+nav a.active {
+    background-color: rgb(121, 116, 116);
+}
+
+nav ul {
+    display: flex;
+    justify-content: flex-end;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}

@@ -10,7 +10,7 @@ form {
     display:block;
     margin-top: 0em;
     display: flex;
-    flex-direction:column-reverse;
+    flex-direction:column;
 }
 
 submit {

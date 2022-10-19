@@ -21,9 +21,6 @@ const Home = () => {
                 <a href="https://www.linkedin.com/in/jovy-ira-naraga-9b1534238/" className="home_social-icon">
                     <img src={linkedIn} alt=""/>
                 </a>
-                {/* <a href="https://codepen.io/" className="home_social-icon">
-                    <img src={codepen} alt=""/>
-                </a> */}
                  <a href="https://github.com/Jlnaraga" className="home_social-icon">
                     <img src={github} alt=""/>
                 </a> 

@@ -1,14 +1,15 @@
 import React from "react"
 import { Routes, Route } from "react-router-dom"
 
-import Contact from './components/Contact/Contact';
-import About from './components/About/About';
-import Home from './components/Home/Home';
-import Portfolio from './components/Portfolio/Portfolio';
-import Resume from './components/Resume/Resume';
+import Contact from './components/Contact';
+import About from './components/About';
+import Home from './components/Home';
+import Portfolio from './components/Portfolio';
+import Resume from './components/Resume';
 import './App.css';
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer"
+
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
           <Route path="resume" element={<Resume />}></Route>
         </Routes>
         <Footer />
+        <Resume />
       </div>
     </div>
   )

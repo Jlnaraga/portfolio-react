@@ -7,8 +7,8 @@
 [GitHub Pages]()
 
 ## screenshots
-[Full screen](./src/assets/images/react-portfolio.png)
-[Responsive](./src/assets/images/react-portfolio.png_(responsive).png)
+
+![Full screen](./src/assets/images/react-portfolio.png)
+![Responsive](./src/assets/images/react-portfolio.png_responsive.png)
 
 ## Description
-

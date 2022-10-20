@@ -14,24 +14,9 @@ import nodejs from "../../assets/images/svg/node-js.svg"
 const Resume = () => {
   return (
     <section className="skills section" id="skills">
-    <h2 className="section-title">Skills</h2>
-
     <div className="skills_container bd-grid">          
         <div>
             <h2 className="skills_subtitle">Profesional Skills</h2>
-            <p className="skills_text">The following are the skills that I have gained throughout the course of the bootcamp.</p>
-            <div className="skills_data">
-                <div className="skills_names">
-                    <img src={react} alt=""/>
-                    <span className="skills_name">REACT</span>
-                </div>
-                <div className="skills_bar skills_react">
-                    
-                </div>
-                <div>
-                    <span className="skills_percentage">80%</span>
-                </div>
-            </div>
             <div className="skills_data">
                 <div className="skills_names">
                     <img src={html5} alt=""/>
@@ -65,7 +50,7 @@ const Resume = () => {
                     
                 </div>
                 <div>
-                    <span className="skills_percentage">60%</span>
+                    <span className="skills_percentage">50%</span>
                 </div>
               </div>
               <div className="skills_data">
@@ -77,7 +62,7 @@ const Resume = () => {
                     
                 </div>
                 <div>
-                    <span className="skills_percentage">60%</span>
+                    <span className="skills_percentage">50%</span>
                 </div>
               </div>
               <div className="skills_data">
@@ -88,7 +73,7 @@ const Resume = () => {
                 <div className="skills_bar skills_mysql">    
                 </div>
                 <div>
-                    <span className="skills_percentage">70%</span>
+                    <span className="skills_percentage">65%</span>
                 </div>
               </div>
               <div className="skills_data">
@@ -112,10 +97,23 @@ const Resume = () => {
 
                 </div>
                 <div>
-                    <span className="skills_percentage">80%</span>
+                    <span className="skills_percentage">65%</span>
                 </div>
               </div>
-              <div className="skills_data">
+          
+            <div className="skills_data">
+                <div className="skills_names">
+                    <img src={react} alt=""/>
+                    <span className="skills_name">REACT</span>
+                </div>
+                <div className="skills_bar skills_react">
+                    
+                </div>
+                <div>
+                    <span className="skills_percentage">85%</span>
+                </div>
+            </div>
+            <div className="skills_data">
                   <div className="skills_names">
                   <img src={git} alt=""/>
                     <span className="skills_name">Git</span>
@@ -124,7 +122,7 @@ const Resume = () => {
 
                 </div>
                 <div>
-                    <span className="skills_percentage">80%</span>
+                    <span className="skills_percentage">75%</span>
                 </div>
             </div>
         </div>

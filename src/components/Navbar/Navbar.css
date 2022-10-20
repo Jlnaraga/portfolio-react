@@ -6,7 +6,7 @@ nav {
 }
 
 nav a.active {
-    background-color: rgb(121, 116, 116);
+    background-color: #022c02;
     color: white
 }   
 
@@ -21,10 +21,6 @@ nav a {
     text-decoration: none;
     display: inline-block;
     padding: 1rem;
-}
-
-nav a.active {
-    background-color: rgb(121, 116, 116);
 }
 
 nav ul {

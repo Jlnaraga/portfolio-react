@@ -11,4 +11,14 @@
 ![Full screen](./src/assets/images/react-portfolio.png)
 ![Responsive](./src/assets/images/react-portfolio.png_responsive.png)
 
-## Description
+## Usage
+
+npm start
+
+## Contact me
+
+[My GitHub](https://github.com/Jlnaraga)
+
+[E-mail](ira_bonching@yahoo.com)
+
+by Jovy Ira Naraga

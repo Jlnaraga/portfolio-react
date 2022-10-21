@@ -4,7 +4,7 @@
 
 [GitHub Link](https://github.com/Jlnaraga/portfolio-react.git)
 
-[GitHub Pages]()
+[GitHub Pages](https://jlnaraga.github.io/portfolio-react/)
 
 ## screenshots
 

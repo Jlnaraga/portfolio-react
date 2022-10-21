@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-# Portfolio-React
+# Full Stack Portfolio
 
 [GitHub Link](https://github.com/Jlnaraga/portfolio-react.git)
 

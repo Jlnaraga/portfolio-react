@@ -10,6 +10,7 @@ return (
         <img src={irasolo} alt="" />
         <div id="intro">
             <h2>JOVY IRA NARAGA</h2>
+            <br />
             <p>I am a mom who studied to become a software developer.
             I have two kids and 4 pet birds.   
 

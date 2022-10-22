@@ -23,7 +23,7 @@ return (
 
 <div className="skills_container bd-grid">          
     <div>
-    <a href="https://docs.google.com/document/d/1ZpHn3FowzE74a9OIFe_QaJagPvSjwY-E/edit?usp=sharing&ouid=100380791438452632959&rtpof=true&sd=true" className="Resume">
+    <a href="https://docs.google.com/document/d/1tr6i4GQFYd3b4E44GRT0TZ970ACamYGm/edit?usp=sharing&ouid=100380791438452632959&rtpof=true&sd=true" className="Resume">
         <img src={resumeicon} alt=""/>
     </a>
     <h3>I have attached my resume for your consideration.</h3>

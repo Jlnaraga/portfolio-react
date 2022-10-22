@@ -12,7 +12,7 @@ return (
               <a href="https://kayhancock.github.io/Wanderlist/">
                 <img src={wanderlist} alt="" />
               </a>
-              <a href="" alt="https://github.com/mmelan000/Blue-Barramundi.git">
+              <a href="https://fathomless-gorge-22203.herokuapp.com/" alt="">
                 <img src={findAFriend} alt="" />
               </a>
           </div>

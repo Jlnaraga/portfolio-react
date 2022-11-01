@@ -71,7 +71,7 @@ margin-right: 15px;
 }
 
 .skills_react {
-    width: 85%;
+    width: 65%;
 }
 
 .skills_nodejs {
@@ -79,15 +79,15 @@ margin-right: 15px;
 }
 
 .skills_mysql {
-    width: 65%;
+    width: 50%;
 }
 
 .skills_mongodb {
-    width: 70%;
+    width: 50%;
 }
 
 .skills_graphql {
-    width: 65%;
+    width: 50%;
 }
 
 .skills_git {

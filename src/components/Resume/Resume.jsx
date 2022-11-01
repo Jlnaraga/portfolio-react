@@ -85,7 +85,7 @@ return (
             <div className="skills_bar skills_mysql">    
             </div>
             <div>
-                <span className="skills_percentage">65%</span>
+                <span className="skills_percentage">50%</span>
             </div>
             </div>
             <div className="skills_data">
@@ -97,7 +97,7 @@ return (
 
             </div>
             <div>
-                <span className="skills_percentage">70%</span>
+                <span className="skills_percentage">50%</span>
             </div>
             </div>
             <div className="skills_data">
@@ -109,7 +109,7 @@ return (
 
             </div>
             <div>
-                <span className="skills_percentage">65%</span>
+                <span className="skills_percentage">50%</span>
             </div>
             </div>
         
@@ -122,7 +122,7 @@ return (
                 
             </div>
             <div>
-                <span className="skills_percentage">85%</span>
+                <span className="skills_percentage">65%</span>
             </div>
         </div>
         <div className="skills_data">

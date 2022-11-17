@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.436c9015.css",
-    "main.js": "/portfolio-react/static/js/main.2a7a41d8.js",
+    "main.css": "/portfolio-react/static/css/main.222a8d50.css",
+    "main.js": "/portfolio-react/static/js/main.3576c8b3.js",
     "static/js/787.aeca62f9.chunk.js": "/portfolio-react/static/js/787.aeca62f9.chunk.js",
     "static/media/IRA-SOLO.jpg": "/portfolio-react/static/media/IRA-SOLO.06d2e951b0eba2f92bc3.jpg",
     "static/media/React-icon.svg.png": "/portfolio-react/static/media/React-icon.svg.8a6fc0a24a800d1e0f4a.png",
+    "static/media/ehr-mypulse.herokuapp.com_.png": "/portfolio-react/static/media/ehr-mypulse.herokuapp.com_.e8b2e08076eddd370267.png",
     "static/media/wanderlist-project.png": "/portfolio-react/static/media/wanderlist-project.8c1d315033a71ded79a6.png",
     "static/media/find_a_friend.png": "/portfolio-react/static/media/find_a_friend.d0057b096a03d9765627.png",
     "static/media/github-icon.svg": "/portfolio-react/static/media/github-icon.59d97099c98869ddd8b61a9868efb19d.svg",
@@ -16,12 +17,12 @@
     "static/media/instragram-icon.svg": "/portfolio-react/static/media/instragram-icon.306b547c875b852e216856ec59f02a18.svg",
     "static/media/facebook-icon.svg": "/portfolio-react/static/media/facebook-icon.80b8aa4633adfbca5a1994163ed88392.svg",
     "index.html": "/portfolio-react/index.html",
-    "main.436c9015.css.map": "/portfolio-react/static/css/main.436c9015.css.map",
-    "main.2a7a41d8.js.map": "/portfolio-react/static/js/main.2a7a41d8.js.map",
+    "main.222a8d50.css.map": "/portfolio-react/static/css/main.222a8d50.css.map",
+    "main.3576c8b3.js.map": "/portfolio-react/static/js/main.3576c8b3.js.map",
     "787.aeca62f9.chunk.js.map": "/portfolio-react/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.436c9015.css",
-    "static/js/main.2a7a41d8.js"
+    "static/css/main.222a8d50.css",
+    "static/js/main.3576c8b3.js"
   ]
 }
